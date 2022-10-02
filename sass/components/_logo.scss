@@ -1,0 +1,41 @@
+
+
+
+.logo {
+    font-family: var(--secondary-font);
+    font-weight: 700;
+    font-size: 26px;
+    line-height: calc(31 / 26);
+    letter-spacing: 0.03em;
+    color: var(--accent-txt-cl);
+    text-decoration: none;
+    }
+    
+    .logo__black {
+    color: #000000;
+    }
+    
+    .logo__light {
+    color: var(--main-bg-cl);   
+    }
+    
+    .logo__footer {
+    margin-bottom: 20px;
+    }
+    
+    .logo__contacts {
+    margin-right: 70px; 
+    flex-grow: 1;
+    }
+    
+    .form__logo {
+    display: block;    
+    position: absolute;
+    left: 28px;
+    z-index: 10;   
+    }
+
+    .header__logo-position {
+  margin-right: 93px;
+  }
+        
