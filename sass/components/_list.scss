@@ -1,5 +1,3 @@
-<<<<<<< HEAD
- 
 
 .header__list {
     display: flex;
@@ -26,33 +24,5 @@
     
 .filters__list {
     flex-wrap: wrap;
-=======
- 
 
-.header__list {
-    display: flex;
-    gap: 50px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    }
-    
-.main__list {
-    display: flex;
-    gap: 30px;
-    }
-    
-.team__list {
-    display: flex;
-    gap: 10px;
-    justify-content: center;  
-    }
-    
-.address__list {
-    text-decoration: none;
-    width: 231px;
-    }
-    
-.filters__list {
-    flex-wrap: wrap;
->>>>>>> adc40b82e765681541c94725a9a703c4f7e7275a
     }

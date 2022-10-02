@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 
 .icon {
 fill: #AFB1B8;
@@ -40,47 +37,5 @@ right: 28px;
 top: 13px;
 z-index: 10;
 fill: var(--icon-bg-cl);
-=======
 
-
-
-.icon {
-fill: #AFB1B8;
-transition: fill var(--animation);
-}
-        
-    
-.header__icon {
-fill: var(--secondary-txt-cl);
-stroke: none;
-transition: fill var(--animation);
-}
-    
-   
-.advantage__icon{
-display: flex;
-align-items: center; 
-justify-content: center;
-width: 270px;   
-height: 120px; 
-background-color: var(--icon-bg-cl);  
-margin-bottom: 30px;
-border-radius: 4px;
-}
- 
-
-.customer__icon {
-fill: #AFB1B8;
-transition: fill var(--animation);
-}
-
-    
-.form__icon {
-display: block;    
-position: absolute;
-right: 28px;
-top: 13px;
-z-index: 10;
-fill: var(--icon-bg-cl);
->>>>>>> adc40b82e765681541c94725a9a703c4f7e7275a
  }

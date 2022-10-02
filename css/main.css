@@ -552,6 +552,13 @@ img {
   color: var(--main-bg-cl);
 }
 
+.footer__comment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;   
+  }
+
 .footer__comment--text {
   width: 358px;
   height: 50px;
