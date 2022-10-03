@@ -858,7 +858,7 @@ img {
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%) rotate(360deg);
-          transform: translate(-50%, -50%) Аrotate(360deg);
+          transform: translate(-50%, -50%) rotate(360deg);
   width: 528px;
   height: 581px;
   background-color: var(--main-bg-cl);

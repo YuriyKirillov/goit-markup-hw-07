@@ -31,14 +31,13 @@ position: absolute;
 padding: 40px;
 top: 50%;
 left: 50%;
-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%) rotate(360deg);
 width: 528px;
 height: 581px;
 background-color: var(--main-bg-cl);
 box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
 border-radius: 4px;
-animation: modal-window 1500ms ease-in 400ms;
-transition: animation var(--animation);
+transition: transform var(--animation);
 transition-duration: 1s;
 }
       
