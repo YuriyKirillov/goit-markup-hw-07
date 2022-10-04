@@ -4,26 +4,30 @@ padding-top: 94px;
 padding-bottom: 94px;
 }
     
-.title__section {
-max-width: 1600px;
-margin-left: auto;
-margin-right: auto;
-background-color: var(--secondary-bg-cl);
-padding-top: 200px;
-padding-bottom: 200px;
-background-image:url(../images/Title/Overlay.png), url(../images/Title/Main.jpg);
-background-repeat: no-repeat;
-background-position: center;
-background-size: cover;
-}
     
-.opportunity__section {
+.section--no-padding-top {
 padding-top: 0;
 }
+
+.section__title {
+font-weight: 700;
+font-size: 36px;
+line-height: calc(42 / 36);
+letter-spacing: 0.03em; 
+color: var(--main-txt-cl);
+text-align: center;
+margin-bottom: 50px;
+}
+  
     
-    
-.team__section {
+.section--other-background {
 background-color:#F5F4FA;
+}
+
+.section--other-background-padding {
+background-color: var(--secondary-bg-cl);
+padding-top: 60px;
+padding-bottom: 60px;
 }
 
     

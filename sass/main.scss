@@ -15,16 +15,17 @@
 //Header
 @import "./layout/header";
 @import "./components/nav";
-@import "./components/link";
+@import "./components/contacts";
 @import "./components/logo";
-@import "./components/list";
-@import "./components/main-header-text";
+@import "./components/site-nav";
 
-//Title
+
+//Hero
+@import "./layout/hero";
 @import "./components/btn";
 
 //Advantage
-@import "./components/paragraph-text";
+@import "./layout/advantage";
 
 //Opportunity
 @import "./layout/opportunity";
@@ -32,9 +33,15 @@
 //Team
 @import "./layout/team";
 @import "./components/icon";
+@import "./layout/social";
+
+//Customers
+@import "./layout/customers";
 
 //Footer
 @import "./layout/footer";
+@import "./layout/form";
+@import "./layout/address";
 
 //Filters
 @import "./layout/filters";
